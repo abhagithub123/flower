@@ -4,3 +4,5 @@ tulip
 orchids
 marigold
 sunflower
+lotus
+jasmine
