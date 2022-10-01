@@ -6,3 +6,5 @@ marigold
 sunflower
 lotus
 jasmine
+hibiscus
+daisy
