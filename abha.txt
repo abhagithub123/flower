@@ -6,3 +6,4 @@ marigold
 sunflower
 lotus
 jasmine
+roses are red
